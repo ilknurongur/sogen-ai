@@ -9,10 +9,10 @@ Bu proje **ÖSYM sınav tarzındaki Türkçe soruları** analiz edip benzer nite
 Proje, PDF dosyalarından alınan orijinal sınav sorularını metin formatında döndürür, bu verileri temizler ve ardından
 ** Flan-T5 ** modeli üzerine ince ayar (fine-tuning) yaparak doğal dil anlama/üretme becerisi kazandırır.
 
-**Amaç**
+**Amaç** <br>
 Modelin, kullanıcıdan aldığı "ders" veya "konu" girdisine göre  Ösym tarzında yeni sorular üretebilmesi.
 
-**Kapsam**
+**Kapsam** <br>
 Şu anda yalnızca **Türkçe dersi** ile başlanmıştır.
 İlerleyen aşamalarda diğer dersler (Matematik, Tarih vb.) de veri setine eklenecektir.
 
@@ -50,7 +50,7 @@ sorgen-ai/ <br>
 
 ---
 
-## Kullanılan Teknolojiler**
+## **Kullanılan Teknolojiler**
 | Teknoloji | Amaç |
 |-----------|------|
 | Python 3.10| Veri işleme ve model eğitimi |
